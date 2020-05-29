@@ -2,6 +2,8 @@
 
 **License:** [GPL-2](https://opensource.org/licenses/GPL-2.1)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3865765.svg)](https://doi.org/10.5281/zenodo.3865765)
+
 The data is created from documents in the Federal Writers’ Project (FWP) Papers, 1936-1940 held at The Southern
 Historical Collection at the Louis Round Wilson Special Collections Library at the University of North
 Carolina – Chapel Hill. From 1936-1939, writers were sent across the American South to record life
@@ -20,7 +22,7 @@ available under a GNU Public License (GPL).
 ### Available files
 
 Each life history is stored in a txt file, available in the directory `text`. Files are named according
-to "interview_XXXX_YYY.txt" where "XXXX" refers to the archival folder number and "YYY" provides the 
+to "interview_XXXX_YYY.txt" where "XXXX" refers to the archival folder number and "YYY" provides the
 start page for the interview in the PDF filed (some folders contain multiple interviews).
 
 The metadata files are stored as normalized csv files in the directory "csv". The following files are
@@ -33,7 +35,7 @@ such as race, age, and gender; some interviews are linked to multiple people
 - `occupation.csv` contains listed occupations mentioned in each interview
 - `writer.csv` contains one row for each of the writers involved with the project
 - `reviser.csv` information about editor that revised the interview before it was published
-- `interviewee_crosswalk.csv` links the interviews to the interviewees 
+- `interviewee_crosswalk.csv` links the interviews to the interviewees
 - `reviser_crosswalk.csv` links the interviews to the revisers
 - `writer_crosswalk.csv` links to the interviews to the writers
 
