@@ -1,0 +1,1381 @@
+id,occupation
+interview_0001_001,cook
+interview_0001_001,maid
+interview_0002_001,mother
+interview_0002_001,teacher
+interview_0003_001,mother
+interview_0003_001,teacher
+interview_0004_001,mill worker
+interview_0004_001,mother
+interview_0005_001,boarding house operator
+interview_0006_001,farmer owner
+interview_0007_001,soil pipe worker
+interview_0008_001,fisherman
+interview_0009_001,midwife
+interview_0010_001,weaver
+interview_0011_001,mill worker
+interview_0012_001,mill worker
+interview_0013_001,mill worker
+interview_0014_001,furniture salesman
+interview_0014_001,installment collector
+interview_0016_001,farmer
+interview_0017_001,farmer
+interview_0018_001,mill worker
+interview_0019_001,dishwasher
+interview_0019_001,displayed cattle at rodeo
+interview_0019_001,hobo
+interview_0019_001,odd jobs
+interview_0019_001,potato picker
+interview_0020_001,newspaper man
+interview_0021_001,farmer
+interview_0022_001,baptist pastor
+interview_0023_001,shrimp boat operator
+interview_0024_001,doctor
+interview_0025_001,potter
+interview_0026_001,oysterman
+interview_0027_001,turpentiner
+interview_0028_001,farmer
+interview_0028_001,union organizer
+interview_0029_001,coal miner
+interview_0029_001,farmer
+interview_0030_001,farmer
+interview_0030_001,merchant
+interview_0031_001,bootlegger
+interview_0031_001,farmer
+interview_0031_001,miner
+interview_0031_001,moonshiner
+interview_0032_001,truck miner
+interview_0033_001,hotel hostess
+interview_0033_001,WPA worker
+interview_0034_001,industrial blacksmith
+interview_0035_001,shrimper
+interview_0036_001,college student
+interview_0036_001,fuel company worker
+interview_0037_001,loan shark
+interview_0038_001,tenant farmer
+interview_0039_001,logger
+interview_0040_001,fisherman
+interview_0041_001,fisherman
+interview_0042_001,fisherman
+interview_0042_001,tenant farmer
+interview_0043_001,lumberman
+interview_0043_001,turpentiner
+interview_0044_001,river rat
+interview_0045_001,river rat
+interview_0046_001,fisherman
+interview_0047_001,beggar
+interview_0048_001,fisherman
+interview_0048_001,tenant farmer
+interview_0049_001,tenant farmer
+interview_0050_001,river rat
+interview_0051_001,housewife
+interview_0052_001,miner
+interview_0053_001,miner
+interview_0053_001,teacher
+interview_0054_001,housewife
+interview_0054_001,miner
+interview_0054_001,washerwoman
+interview_0055_001,miner
+interview_0056_001,boarding house mistress
+interview_0058_001,tenant farmer
+interview_0059_001,candy seller
+interview_0059_001,tenant farmer
+interview_0060_001,sculptor
+interview_0061_001,ex-slave
+interview_0061_001,famer
+interview_0062_001,wpa worker
+interview_0063_001,shrimp factory worker
+interview_0064_001,midwife
+interview_0065_001,farm laborer
+interview_0066_001,nurseryman
+interview_0067_001,fisherman
+interview_0068_001,housewife
+interview_0069_001,garage man
+interview_0069_001,tenant farmer
+interview_0070_001,janitor
+interview_0071_001,housekeeper
+interview_0072_001,fortune teller
+interview_0073_001,midwife
+interview_0074_001,maid
+interview_0075_001,maid
+interview_0077_001,doctor
+interview_0079_001,farmer
+interview_0080_001,high school student
+interview_0081_001,owner of country store
+interview_0081_001,postman
+interview_0082_001,farmer
+interview_0082_001,postman
+interview_0083_001,surveyor
+interview_0084_001,storekeeper
+interview_0086_001,country store operator
+interview_0087_001,farmer
+interview_0088_001,odd job
+interview_0089_001,ex-slave
+interview_0089_001,former butcher
+interview_0089_001,ice plant worker
+interview_0091_001,doctor
+interview_0092_001,midwife
+interview_0093_001,maid
+interview_0094_001,tenant farmer
+interview_0095_001,thief
+interview_0096_001,waitress
+interview_0097_001,mechanic
+interview_0098_001,housewife
+interview_0099_001,collector
+interview_0100_001,sewing room worker
+interview_0101_001,squatter
+interview_0102_001,citrus worker
+interview_0103_001,citrus worker
+interview_0104_001,country store proprietor
+interview_0104_001,farmer
+interview_0105_001,poultry farmer
+interview_0106_001,wife of sharecropper
+interview_0107_001,citrus worker
+interview_0108_001,farmer
+interview_0108_001,squatter
+interview_0109_001,farmer
+interview_0109_001,squatter
+interview_0110_001,farmer
+interview_0110_001,squatter
+interview_0111_001,squatters
+interview_0112_001,farmer
+interview_0112_001,overseer of tenants
+interview_0113_001,turpentine foreman
+interview_0114_001,tenant farmer
+interview_0115_001,phosphate miner
+interview_0116_001,turpentine foreman
+interview_0117_001,barber
+interview_0118_001,midwife
+interview_0119_001,fisherman
+interview_0119_001,sponger
+interview_0119_001,turtler
+interview_0120_001,villagers
+interview_0121_001,cigar maker
+interview_0122_001,cigar maker
+interview_0123_001,cigar maker
+interview_0124_001,cigar box maker
+interview_0125_001,installment collector
+interview_0125_001,salesman
+interview_0126_001,wood and fuel dealer
+interview_0127_001,reverend
+interview_0128_001,bus driver
+interview_0129_001,restauranter
+interview_0130_001,wife of restaurant owner
+interview_0131_001,bus driver
+interview_0132_001,cigar factory worker
+interview_0133_001,cigar factory worker
+interview_0134_001,elevator operator
+interview_0134_001,sharecropper
+interview_0135_001,cigar maker
+interview_0136_001,cigar maker
+interview_0136_001,optometrist
+interview_0137_001,chairman of manufacturers' association
+interview_0137_001,cigar factory owner
+interview_0138_001,chairman of manufacturers' association
+interview_0138_001,cigar factory owner
+interview_0139_001,artist
+interview_0140_001,cigar maker
+interview_0141_001,cigar maker
+interview_0142_001,cigar maker
+interview_0143_001,cigar worker
+interview_0143_001,secretary of spanish club
+interview_0144_001,unemployed cigar-factory reader
+interview_0145_001,unemployed cigar-factory reader
+interview_0146_001,bartender
+interview_0146_001,cigar maker
+interview_0147_001,bartender
+interview_0148_001,ex-slave
+interview_0148_001,stevedor
+interview_0149_001,tenant farmer
+interview_0150_001,tenant farmer
+interview_0151_001,farmer
+interview_0152_001,farmer
+interview_0153_001,county relief director
+interview_0154_001,practical nurse
+interview_0155_001,district manager for Avon Products
+interview_0156_001,WPA librarian
+interview_0157_001,painter
+interview_0158_001,teacher
+interview_0159_001,sea captain
+interview_0160_001,musical instruments salesman
+interview_0161_001,grocer
+interview_0162_001,hotel operator
+interview_0163_001,farmer
+interview_0164_001,seamstress
+interview_0165_001,retired textile operative
+interview_0166_001,practical nurse
+interview_0167_001,practical nurse
+interview_0168_001,practical nurse
+interview_0169_001,maid (coordinate college)
+interview_0170_001,brickmason
+interview_0171_001,beautician
+interview_0172_001,retired mill worker
+interview_0173_001,jailer
+interview_0173_001,wife of jailer
+interview_0174_001,textile worker
+interview_0175_001,nurse
+interview_0175_001,principal
+interview_0176_001,carpenter
+interview_0177_001,washerwoman
+interview_0178_001,laundry operator
+interview_0179_001,gas station operator
+interview_0180_001,milliner
+interview_0181_001,educator
+interview_0181_001,welfare promoter
+interview_0182_001,cook
+interview_0182_001,maid
+interview_0182_001,washerwoman
+interview_0183_001,engineer
+interview_0183_001,landlord
+interview_0184_001,engineer
+interview_0184_001,landlord
+interview_0185_001,barber
+interview_0185_001,business owner
+interview_0185_001,chicken farmer
+interview_0185_001,hog farmer
+interview_0185_001,landlord
+interview_0186_001,grocer
+interview_0186_001,shoe salesman
+interview_0187_001,preacher
+interview_0188_001,doll maker
+interview_0188_001,quilter
+interview_0189_001,boarding house operator
+interview_0189_001,salesperson
+interview_0190_001,candy kitchen proprietor
+interview_0191_001,grocer
+interview_0191_001,sawmill worker
+interview_0192_001,seamstress
+interview_0192_001,WPA supervisor
+interview_0193_001,barbecue stand owner
+interview_0194_001,beautician
+interview_0194_001,seamstress
+interview_0195_001,barber
+interview_0195_001,mill worker
+interview_0196_001,widow
+interview_0197_001,beautician
+interview_0197_001,business owner
+interview_0197_001,instructor at cosmetic school
+interview_0197_001,telephone operator
+interview_0198_001,auditor
+interview_0198_001,insurance executive
+interview_0198_001,paper delivery
+interview_0198_001,teacher
+interview_0199_001,auditor
+interview_0199_001,insurance executive
+interview_0199_001,paper delivery
+interview_0199_001,teacher
+interview_0200_001,lawyer
+interview_0201_001,bandmaster
+interview_0201_001,music teacher
+interview_0201_001,organist
+interview_0201_001,pensioner
+interview_0201_001,postman
+interview_0202_001,coal miner
+interview_0202_001,quarry worker
+interview_0202_001,unemployed
+interview_0203_001,manager of department store
+interview_0204_001,farmer
+interview_0204_001,preacher
+interview_0205_001,farmer
+interview_0205_001,housewife
+interview_0205_001,retired textile mill worker
+interview_0206_001,housewife
+interview_0207_001,judge
+interview_0207_001,tax official
+interview_0208_001,grand secertary of improved order of samaratins
+interview_0209_001,manager of City Bus Lines
+interview_0209_001,tour bus driver
+interview_0210_001,mill worker
+interview_0210_001,tailor
+interview_0211_001,shoemaker
+interview_0211_001,undertaker
+interview_0212_001,mill worker
+interview_0212_001,tailor
+interview_0213_001,housemaid
+interview_0213_001,laundress
+interview_0213_001,nurse
+interview_0213_001,teacher
+interview_0214_001,dentist
+interview_0215_001,cook
+interview_0215_001,sewing woman
+interview_0216_001,hairdresser
+interview_0216_001,maid
+interview_0217_001,barber
+interview_0218_001,dentist
+interview_0219_001,manager of Union Bus Station
+interview_0219_001,manager of Union Bus Station
+interview_0220_001,blacksmith
+interview_0221_001,farmer
+interview_0221_001,merchant
+interview_0222_001,beautician
+interview_0222_001,beautician
+interview_0223_001,boarding house operator
+interview_0223_001,farmer
+interview_0223_001,nurse
+interview_0224_001,insurance company manager
+interview_0225_001,insurance company manager
+interview_0226_001,embalmer
+interview_0226_001,undertaker
+interview_0227_001,patent medicine vendor
+interview_0227_001,tailoress
+interview_0228_001,midwife
+interview_0228_001,tenant farmer
+interview_0229_001,flower shop proprietor
+interview_0230_001,undertaker
+interview_0231_001,ex-mail carrier
+interview_0231_001,farmer
+interview_0231_001,preacher
+interview_0231_001,tenant farmer
+interview_0232_001,cobbler
+interview_0233_001,barbershop proprietor
+interview_0233_001,grocery store proprietor
+interview_0234_001,veterinarian
+interview_0235_001,co-owner of a dry goods store
+interview_0236_001,beautician
+interview_0237_001,restaurant proprietor
+interview_0238_001,fisherman
+interview_0239_001,flower shop proprietor
+interview_0240_001,wood engraver
+interview_0241_001,tenant farmer
+interview_0242_001,clairvoyant
+interview_0243_001,saleslady
+interview_0244_001,wpa typist
+interview_0245_001,unemployed
+interview_0246_001,textile worker
+interview_0247_001,housemaid
+interview_0248_001,textile worker
+interview_0249_001,night watchman
+interview_0250_001,housewife
+interview_0251_001,housewife
+interview_0252_001,laundry operator
+interview_0253_001,root doctor
+interview_0254_001,wpa worker
+interview_0255_001,driver
+interview_0255_001,ex-slave
+interview_0255_001,yardman
+interview_0256_001,teacher
+interview_0257_001,wpa worker
+interview_0258_001,preacher
+interview_0259_001,maid
+interview_0260_001,preacher
+interview_0261_001,ex-slave
+interview_0262_001,housewife
+interview_0263_001,teacher
+interview_0264_001,housewife
+interview_0266_001,student
+interview_0267_001,cook
+interview_0267_001,cook
+interview_0269_001,ice cream plant owner
+interview_0270_001,cook
+interview_0271_001,cook
+interview_0272_001,chimney sweep
+interview_0273_001,garbageman
+interview_0273_001,shrimp fisherman
+interview_0274_001,washerwoman
+interview_0275_001,widow
+interview_0276_001,holiness preacher
+interview_0276_001,school janitor
+interview_0277_001,cotton man
+interview_0277_001,hotel manager
+interview_0278_001,photographer
+interview_0279_001,casket finisher
+interview_0279_001,interior decorator
+interview_0280_001,knitter
+interview_0281_001,mill worker
+interview_0282_001,tobacco farmer
+interview_0283_001,merchant tailor
+interview_0284_001,gambler
+interview_0285_001,vagrant
+interview_0287_001,dredge-boat operator
+interview_0288_001,farming
+interview_0288_001,poultry raising
+interview_0289_001,cabinet-maker
+interview_0290_001,farmer
+interview_0290_001,log-rolling
+interview_0290_001,rail-splitting
+interview_0290_001,tar-kilning
+interview_0291_001,pressing club operator
+interview_0292_001,pullman porter
+interview_0293_001,beauty shop owner
+interview_0294_001,cook
+interview_0295_001,"""odd-job"" negro"
+interview_0296_001,disabled laborer
+interview_0297_001,WPA project worker
+interview_0298_001,minister
+interview_0299_001,farm colonies manager
+interview_0300_001,automobile painter
+interview_0301_001,tourist house manager
+interview_0302_001,WPA worker
+interview_0303_001,servant
+interview_0304_001,textile worker
+interview_0305_001,textile worker
+interview_0306_001,spinner
+interview_0307_001,washerwoman
+interview_0308_001,textile worker
+interview_0309_001,businessman (retired)
+interview_0310_001,jack-of-all trades
+interview_0310_001,landlord
+interview_0310_001,retired farmer
+interview_0311_001,jack-of-all trades
+interview_0311_001,landlord
+interview_0311_001,lumberman
+interview_0311_001,retired farmer
+interview_0312_001,accountant
+interview_0313_001,owner of tire shop
+interview_0314_001,cafe owner
+interview_0315_001,mushroom grower
+interview_0316_001,watchmaker
+interview_0317_001,bootlegger
+interview_0318_001,widow
+interview_0319_001,mechanic
+interview_0320_001,lumberman
+interview_0321_001,janitor
+interview_0322_001,"proprietor, second hand store"
+interview_0323_001,mechanic
+interview_0324_001,ex-school teacher
+interview_0324_001,housekeeper
+interview_0325_001,plumber
+interview_0326_001,farm owner
+interview_0327_001,manufacturer
+interview_0328_001,tobacco stemmery worker
+interview_0329_001,tenant farmer
+interview_0330_001,merchant
+interview_0331_001,farmer
+interview_0331_001,steel worker
+interview_0332_001,bootlegger
+interview_0332_001,farmer
+interview_0333_001,mother
+interview_0334_001,bank clerk
+interview_0335_001,housewife
+interview_0336_001,landlord
+interview_0337_001,lumber truck driver
+interview_0338_001,minister
+interview_0338_001,teacher
+interview_0339_001,WPA worker
+interview_0340_001,WPA worker
+interview_0341_001,unemployed knitter
+interview_0342_001,fortune teller
+interview_0343_001,washerwoman
+interview_0344_001,unemployed
+interview_0345_001,unemployed
+interview_0346_001,housewife
+interview_0347_001,mill worker
+interview_0348_001,housewife
+interview_0349_001,farm girl
+interview_0350_001,textile worker
+interview_0351_001,prison guard
+interview_0352_001,on relief
+interview_0353_001,invalid
+interview_0354_001,textile worker
+interview_0355_001,nurse
+interview_0355_001,weaver
+interview_0356_001,on relief
+interview_0357_001,housewife
+interview_0358_001,farmer
+interview_0359_001,county home inmate
+interview_0359_001,ex-slave
+interview_0359_001,housekeeper
+interview_0359_001,landowner
+interview_0360_001,tenant farmer
+interview_0361_001,housekeeper
+interview_0362_001,retired physician
+interview_0363_001,self-styled preacher
+interview_0364_001,laborer
+interview_0364_001,mill worker
+interview_0364_001,tenant farmer
+interview_0365_001,tenant farmer
+interview_0366_001,farm woman
+interview_0367_001,farm tenant
+interview_0368_001,tenant farmer
+interview_0369_001,restauranteur
+interview_0370_001,magician
+interview_0370_001,radio announcer
+interview_0371_001,tenant farmer
+interview_0371_001,tobacco basket split river
+interview_0372_001,prostitute
+interview_0373_001,midwife
+interview_0374_001,day laborer
+interview_0375_001,editor
+interview_0375_001,former lawyer
+interview_0376_001,horse dealer
+interview_0376_001,mule dealer
+interview_0377_001,manager of a beauty parlor
+interview_0378_001,farm tenant
+interview_0379_001,farmer
+interview_0380_001,tenant farmer
+interview_0381_001,tenant farmer
+interview_0382_001,tobacco farmer
+interview_0383_001,tenant farmer
+interview_0384_001,tenant farmer
+interview_0385_001,farmer
+interview_0385_001,mechanic
+interview_0386_001,farmer
+interview_0387_001,tenant farmer
+interview_0388_001,barber
+interview_0389_001,tenant farmer
+interview_0390_001,cigarette boxer
+interview_0390_001,tenant farmer
+interview_0391_001,farmer
+interview_0392_001,cook
+interview_0392_001,tenant farmer
+interview_0393_001,tenant farmer
+interview_0394_001,tenant farmer
+interview_0395_001,tenant farmer
+interview_0396_001,sharecroppers
+interview_0397_001,farm laborer
+interview_0397_001,street cleaner
+interview_0398_001,country editor
+interview_0399_001,farmer
+interview_0400_001,mechanic
+interview_0401_001,tenant farmer
+interview_0402_001,farmer
+interview_0402_001,textile worker
+interview_0403_001,carpenter
+interview_0403_001,millworker
+interview_0404_001,tenant farmer
+interview_0405_001,farmer
+interview_0406_001,tenant farmer
+interview_0407_001,tenant farmer
+interview_0408_001,tenant farmer
+interview_0409_001,tenant farmer
+interview_0410_001,carpenter
+interview_0410_001,tenant farmer
+interview_0411_001,tenant farmer
+interview_0412_001,sawmill worker
+interview_0413_001,mill worker
+interview_0414_001,tenant farmer
+interview_0415_001,tenant farmer
+interview_0416_001,sharecropper
+interview_0417_001,on relief
+interview_0419_001,farmer
+interview_0420_001,spinner
+interview_0421_001,sawmill worker
+interview_0421_001,tenant farmer
+interview_0423_001,landlord
+interview_0424_001,undertaker
+interview_0425_001,tenant farmer
+interview_0426_001,clothes washer
+interview_0427_001,farmer
+interview_0430_001,ex-slave
+interview_0431_001,ex-slave
+interview_0432_001,tenant farmer
+interview_0433_001,sharecropper
+interview_0434_001,minister
+interview_0435_001,doctor
+interview_0436_001,farmer
+interview_0437_001,farmer
+interview_0438_001,tenant farmer
+interview_0439_001,bachelor farmer
+interview_0440_001,sharecropper
+interview_0441_001,tenant farmer
+interview_0442_001,farm woman
+interview_0443_001,tenant farmer
+interview_0444_001,farmer
+interview_0445_001,renter
+interview_0446_001,teacher
+interview_0447_001,sharecropper
+interview_0448_001,part time employee
+interview_0449_001,farmer
+interview_0450_001,sharecropper
+interview_0451_001,odd jobs
+interview_0451_001,sharecropper
+interview_0452_001,washerwoman
+interview_0453_001,sharecropper
+interview_0454_001,farmer
+interview_0455_001,seamstress
+interview_0456_001,cotton ginner
+interview_0457_001,justice of the peace
+interview_0458_001,judge
+interview_0459_001,tenant farmer
+interview_0459_001,widow
+interview_0460_001,basket-maker
+interview_0461_001,housewife
+interview_0462_001,tenant farmer
+interview_0463_001,ex-slave
+interview_0464_001,ex-slave
+interview_0464_001,landowner
+interview_0465_001,farmer
+interview_0466_001,tenant farmer
+interview_0467_001,farmer
+interview_0467_001,preacher
+interview_0468_001,farmer
+interview_0468_001,hunter
+interview_0468_001,truck driver
+interview_0469_001,farmer
+interview_0469_001,maid
+interview_0470_001,farm laborer
+interview_0471_001,sharecropper
+interview_0472_001,magistrate
+interview_0472_001,precinct chairman
+interview_0473_001,brick mason
+interview_0473_001,farmer
+interview_0474_001,landlord
+interview_0475_001,cook
+interview_0476_001,sharecropper
+interview_0477_001,farmer
+interview_0478_001,landlord
+interview_0478_001,school principal
+interview_0479_001,farmer
+interview_0480_001,day laborer
+interview_0481_001,farmer
+interview_0482_001,tenant farmer
+interview_0483_001,housekeeper
+interview_0484_001,on relief
+interview_0485_001,landlord
+interview_0486_001,merchant
+interview_0487_001,tenant farmer
+interview_0488_001,fertilizer salesman
+interview_0489_001,country store operator
+interview_0489_001,farmer
+interview_0490_001,unemployed
+interview_0491_001,doctor
+interview_0493_001,miller
+interview_0494_001,preacher
+interview_0495_001,teacher
+interview_0496_001,ex-slave
+interview_0498_001,day laborer
+interview_0498_001,tenant farmer
+interview_0499_001,sawmill worker
+interview_0500_001,landlord
+interview_0501_001,tenant farmer
+interview_0502_001,farmer
+interview_0502_001,merchant
+interview_0503_001,country store operator
+interview_0504_001,mill worker
+interview_0505_001,mill worker
+interview_0506_001,WPA worker
+interview_0507_001,pensioner
+interview_0508_001,lumbermill worker
+interview_0509_001,carpenter
+interview_0510_001,station porter
+interview_0511_001,filling station operator
+interview_0512_001,magistrate
+interview_0513_001,doctor
+interview_0514_001,attorney
+interview_0515_001,county court judge
+interview_0516_001,farmer
+interview_0517_001,bag maker
+interview_0518_001,mechanic
+interview_0519_001,housewife
+interview_0520_001,sawmill worker
+interview_0521_001,bus driver
+interview_0522_001,farmer
+interview_0522_001,lawyer
+interview_0523_001,seamstress
+interview_0524_001,CCC foreman
+interview_0525_001,farmer
+interview_0526_001,farmhand
+interview_0527_001,housewife
+interview_0528_001,carpenter
+interview_0529_001,printer
+interview_0530_001,waitress
+interview_0531_001,seamstress
+interview_0532_001,farmer
+interview_0532_001,teacher
+interview_0533_001,farmer
+interview_0534_001,flower seller
+interview_0535_001,flower seller
+interview_0536_001,flower agent
+interview_0537_001,laundress
+interview_0538_001,WPA clerical worker
+interview_0539_001,seamstress
+interview_0539_001,teacher
+interview_0540_001,tenant farmer
+interview_0541_001,bus driver
+interview_0542_001,railroad fireman
+interview_0543_001,farmer
+interview_0544_001,farmer
+interview_0545_001,mechanic
+interview_0546_001,merchant
+interview_0547_001,steel worker
+interview_0548_001,clerk
+interview_0549_001,blacksmith
+interview_0549_001,state highway employee
+interview_0550_001,tobacco packer
+interview_0551_001,wife of a truck driver
+interview_0552_001,day laborer
+interview_0553_001,washerwoman
+interview_0554_001,wife of a driver for a transfer company
+interview_0555_001,WPA foreman
+interview_0556_001,farmer
+interview_0557_001,farmer
+interview_0558_001,wife of carpenter
+interview_0559_001,textile worker
+interview_0560_001,rooming house keeper
+interview_0560_001,widow
+interview_0562_001,insurance salesman
+interview_0563_001,WPA worker
+interview_0564_001,tenant farmer
+interview_0565_001,landowner
+interview_0566_001,matress maker
+interview_0566_001,newsstand operator
+interview_0566_001,piano tuner
+interview_0567_001,politician
+interview_0568_001,shoemaker
+interview_0569_001,barber
+interview_0570_001,beauty salon owner
+interview_0571_001,coroner
+interview_0571_001,justice of the peace
+interview_0572_001,unemployed
+interview_0573_001,jockey
+interview_0574_001,farmer
+interview_0575_001,printing company owner
+interview_0576_001,mechanic
+interview_0577_001,circus employee
+interview_0577_001,prison guard
+interview_0578_001,lodging house keeper
+interview_0579_001,bell-hop
+interview_0580_001,wife of jailor
+interview_0581_001,pastor
+interview_0582_001,mill worker
+interview_0583_001,boarding house operator
+interview_0584_001,waitress
+interview_0585_001,elevator operator
+interview_0586_001,houseworker
+interview_0587_001,retired superior court judge
+interview_0588_001,meat clerk in grocery
+interview_0589_001,schoolmaster
+interview_0591_001,farmer
+interview_0591_001,huntsman
+interview_0592_001,janitor
+interview_0592_001,odd job man
+interview_0593_001,artisan
+interview_0593_001,farmer
+interview_0594_001,dressmaker
+interview_0595_001,washerwoman
+interview_0596_001,mill worker's wife
+interview_0597_001,florist
+interview_0598_001,domestic servant
+interview_0599_001,seamstress
+interview_0600_001,stone mason
+interview_0601_001,housewife
+interview_0602_001,preacher
+interview_0602_001,wpa crewmember
+interview_0603_001,electrical contractor
+interview_0604_001,agent
+interview_0604_001,real estate agent
+interview_0605_001,waitress
+interview_0606_001,farmer
+interview_0607_001,textile mill worker
+interview_0608_001,bootlegger
+interview_0609_001,chauffeur
+interview_0609_001,mechanic
+interview_0610_001,farmer
+interview_0611_001,chain store employee
+interview_0612_001,physician
+interview_0613_001,farmer
+interview_0614_001,laborer
+interview_0615_001,farmer
+interview_0615_001,moonshiner
+interview_0616_001,plumber
+interview_0617_001,peddler
+interview_0618_001,farmer
+interview_0619_001,rooming house proprietor
+interview_0620_001,sporting woman
+interview_0621_001,metal moulder
+interview_0622_001,housewife
+interview_0622_001,merchant
+interview_0623_001,farmer
+interview_0624_001,tenant farmer
+interview_0626_001,farmer
+interview_0627_001,janitor
+interview_0627_001,shoe shiner
+interview_0628_001,housewife
+interview_0629_001,cotton mill worker
+interview_0630_001,farmer
+interview_0631_001,wife of tenant farmer
+interview_0632_001,WPA laborer
+interview_0633_001,WPA laborer
+interview_0634_001,WPA worker
+interview_0635_001,basket weaver
+interview_0635_001,farmer
+interview_0636_001,vineyardist
+interview_0637_001,magistrate
+interview_0638_001,policeman
+interview_0639_001,midwife
+interview_0639_001,weaver
+interview_0640_001,dairy farmer
+interview_0641_001,bootblack
+interview_0642_001,woodcarver
+interview_0643_001,farmer
+interview_0643_001,washer
+interview_0644_001,shop owner
+interview_0645_001,shop owner
+interview_0646_001,footer in hoseiry mill
+interview_0647_001,houseman
+interview_0648_001,caretaker of wildlife preserve
+interview_0649_001,depot worker
+interview_0649_001,telegraph operator
+interview_0649_001,writer
+interview_0650_001,cook
+interview_0650_001,maid
+interview_0651_001,employee of sanitary department
+interview_0652_001,wife of automobile mechanic
+interview_0653_001,mill worker
+interview_0656_001,tobacco bag tagger
+interview_0657_001,housewife
+interview_0658_001,textile worker
+interview_0659_001,mill worker
+interview_0660_001,boarding house manager
+interview_0661_001,mill worker
+interview_0663_001,housewife
+interview_0664_001,mill worker
+interview_0665_001,housewife
+interview_0666_001,unemployed
+interview_0667_001,farmer
+interview_0669_001,housewife
+interview_0670_001,mill worker
+interview_0671_001,mill worker
+interview_0672_001,preacher
+interview_0673_001,mill owner
+interview_0674_001,textile worker
+interview_0679_001,mill worker
+interview_0680_001,mill worker
+interview_0681_001,mother of family on relief
+interview_0682_001,ex-WPA worker
+interview_0683_001,radio hillbilly
+interview_0684_001,tenant farmer
+interview_0685_001,farmer
+interview_0686_001,textile worker
+interview_0687_001,storekeeper
+interview_0688_001,school teacher
+interview_0689_001,farmer
+interview_0690_001,rural mail carrier
+interview_0691_001,farmer
+interview_0692_001,small farmer
+interview_0692_001,WPA worker
+interview_0693_001,rural mail carrier
+interview_0694_001,farmer (housewife)
+interview_0695_001,farmer (housewife)
+interview_0696_001,housewife
+interview_0697_001,mail carrier
+interview_0698_001,ex-slave
+interview_0698_001,infant and maternity nurse
+interview_0699_001,mill worker
+interview_0700_001,tattoo artist
+interview_0701_001,counterman
+interview_0702_001,peanut man
+interview_0703_001,dairyman
+interview_0704_001,produce trucker
+interview_0706_001,peddler
+interview_0707_001,speculator
+interview_0708_001,livestock trader
+interview_0709_001,textile worker
+interview_0710_001,washerwoman
+interview_0711_001,waitress
+interview_0712_001,charwoman
+interview_0713_001,student
+interview_0714_001,WPA
+interview_0715_001,teacher
+interview_0716_001,pensioned
+interview_0717_001,physician
+interview_0718_001,housewife
+interview_0719_001,preacher
+interview_0720_001,housewife
+interview_0721_001,former seaman
+interview_0721_001,retired merchant
+interview_0722_001,carpenter
+interview_0723_001,preacher
+interview_0724_001,dentist
+interview_0725_001,fisherman
+interview_0726_001,dry cleaner
+interview_0726_001,presser
+interview_0727_001,housewife
+interview_0728_001,merchant
+interview_0729_001,sawmill hand
+interview_0730_001,ex-moonshiner
+interview_0731_001,blacksmith
+interview_0731_001,waste materials dealer
+interview_0732_001,general practitioner
+interview_0733_001,greek restauranteur
+interview_0734_001,WPA worker
+interview_0735_001,barber
+interview_0736_001,justice of the peace
+interview_0737_001,merchant
+interview_0738_001,WPA worker
+interview_0739_001,tenant farmer
+interview_0740_001,widow
+interview_0741_001,scavenger
+interview_0742_001,maid (retired)
+interview_0743_001,business man (retired)
+interview_0744_001,pharmacist
+interview_0745_001,clerical worker
+interview_0746_001,shoe salesman (retired)
+interview_0747_001,housewife
+interview_0748_001,dairy farmer
+interview_0749_001,dairy farmer
+interview_0750_001,tenant farmer
+interview_0751_001,barber
+interview_0751_001,millworker
+interview_0751_001,preacher
+interview_0752_001,farmer
+interview_0753_001,dairy farmer
+interview_0753_001,landlord
+interview_0754_001,domestic help
+interview_0755_001,housewife
+interview_0756_001,unemployed
+interview_0757_001,dairy farmer
+interview_0758_001,dairy farmer
+interview_0759_001,farmer
+interview_0759_001,WPA worker
+interview_0760_001,public-school teacher
+interview_0761_001,laundress
+interview_0762_001,housewife
+interview_0763_001,day laborer
+interview_0763_001,sharecropper
+interview_0764_001,cloth dyer
+interview_0765_001,WPA worker
+interview_0766_001,physician
+interview_0767_001,farmer (laborer)
+interview_0768_001,widow
+interview_0769_001,tenant farmer (housewife)
+interview_0770_001,minister
+interview_0771_001,preacher
+interview_0772_001,WPA worker
+interview_0773_001,lawyer
+interview_0774_001,attorney at law
+interview_0775_001,farmer
+interview_0776_001,salesman
+interview_0776_001,textile millworker
+interview_0777_001,mill worker
+interview_0778_001,holiness minister
+interview_0780_001,mill worker
+interview_0781_001,farmer
+interview_0782_001,laborer
+interview_0783_001,merchant
+interview_0784_001,blacksmith
+interview_0785_001,farmer
+interview_0786_001,widow
+interview_0787_001,textile worker
+interview_0788_001,housewife
+interview_0792_001,textile worker
+interview_0793_001,textile worker
+interview_0794_001,housewife
+interview_0796_001,textile worker
+interview_0797_001,retired textile worker
+interview_0798_001,textile worker
+interview_0799_001,textile worker
+interview_0802_001,textile worker
+interview_0807_001,dentist
+interview_0808_001,textile worker
+interview_0809_001,hog farmer
+interview_0809_001,millworker
+interview_0810_001,textile worker
+interview_0811_001,medical doctor
+interview_0812_001,machine shop foreman
+interview_0813_001,oil driller
+interview_0816_001,rigbuilder
+interview_0817_001,drilling contractor
+interview_0818_001,oil field cook
+interview_0819_001,rigbuilder
+interview_0820_001,rigbuilder
+interview_0821_001,roughneck
+interview_0822_001,pool hustler
+interview_0823_001,wild cattler
+interview_0824_001,oil supply salesman
+interview_0825_001,oil pumper
+interview_0826_001,pipeliner
+interview_0827_001,farmer
+interview_0828_001,farmer
+interview_0829_001,pastor
+interview_0830_001,field worker
+interview_0831_001,farmer
+interview_0831_001,preacher
+interview_0831_001,teacher
+interview_0832_001,farmer
+interview_0832_001,preacher
+interview_0832_001,teacher
+interview_0833_001,farmer
+interview_0834_001,tenant farmer
+interview_0835_001,day laborer
+interview_0835_001,farmer
+interview_0836_001,widow
+interview_0837_001,farmer
+interview_0837_001,landowner
+interview_0838_001,farmer
+interview_0838_001,landowner
+interview_0839_001,housewife
+interview_0840_001,housemistress
+interview_0841_001,housework
+interview_0842_001,housewife
+interview_0843_001,housework
+interview_0843_001,nurse
+interview_0844_001,politician
+interview_0844_001,retired farmer
+interview_0845_001,widow
+interview_0846_001,widow
+interview_0847_001,widow
+interview_0848_001,widow
+interview_0849_001,spinster
+interview_0850_001,widow
+interview_0851_001,carpenter
+interview_0852_001,retired
+interview_0853_001,retired physician
+interview_0854_001,farmer
+interview_0854_001,landowner
+interview_0855_001,farmer
+interview_0855_001,livery stable operator
+interview_0856_001,resident of a home for the elderly
+interview_0857_001,tenant farmer
+interview_0858_001,farmer
+interview_0859_001,laundry proprietor
+interview_0860_001,textile worker
+interview_0861_001,preacher
+interview_0862_001,textile worker
+interview_0863_001,textile worker
+interview_0864_001,textile worker
+interview_0865_001,textile worker
+interview_0866_001,preacher
+interview_0867_001,retired
+interview_0868_001,handyman
+interview_0869_001,domestic servant
+interview_0870_001,domestic servant
+interview_0871_001,C.W.A garden worker
+interview_0871_001,cook
+interview_0872_001,retired office secretary
+interview_0873_001,fortune teller
+interview_0874_001,midwife
+interview_0875_001,county health nurse
+interview_0876_001,nurse
+interview_0877_001,merchant
+interview_0878_001,housewife
+interview_0879_001,housewife
+interview_0880_001,housewife
+interview_0881_001,unfortunate
+interview_0882_001,textile worker
+interview_0883_001,textile worker
+interview_0884_001,textile worker
+interview_0885_001,textile worker
+interview_0886_001,textile worker
+interview_0887_001,textile worker
+interview_0888_001,retired storekeeper
+interview_0889_001,retired business manager of cotton plantation
+interview_0890_001,retired business manager of cotton plantation
+interview_0892_001,fisherman
+interview_0893_001,day laborer
+interview_0893_001,farmer
+interview_0894_001,on relief
+interview_0895_001,fireman
+interview_0896_001,domestic
+interview_0897_001,tenant farmer
+interview_0898_001,textile mill worker
+interview_0899_001,peanut vendor
+interview_0900_001,merchant
+interview_0901_001,WPA mechanic
+interview_0902_001,house wife
+interview_0903_001,house wife
+interview_0904_001,barber and beauty supplies
+interview_0905_001,barber and beauty supplies
+interview_0906_001,lumber man
+interview_0907_001,housewife
+interview_0908_001,steno-clerk
+interview_0909_001,department store clerk
+interview_0910_001,department store clerk
+interview_0911_001,librarian in charge of children's room
+interview_0912_001,apartment house keeper
+interview_0913_001,mechanic
+interview_0914_001,dressmaker
+interview_0915_001,dressmaker
+interview_0916_001,farmer
+interview_0917_001,farmer
+interview_0918_001,storage (ice) man
+interview_0919_001,part owner of a restaurant
+interview_0920_001,part owner of a greek restaurant
+interview_0929_001,elderly gossip
+interview_0930_001,overall factory worker
+interview_0932_001,motorman
+interview_0933_001,ex-slave
+interview_0934_001,doctor
+interview_0935_001,day laborer
+interview_0936_001,industrial worker
+interview_0937_001,tenant farmer
+interview_0938_001,retired primitive baptist preacher
+interview_0939_001,housewife
+interview_0940_001,"wife of a job painter, carpenter and mason"
+interview_0941_001,elderly gossip
+interview_0942_001,tenant farmer
+interview_0943_001,wash woman
+interview_0944_001,janitor
+interview_0945_001,tombstone maker
+interview_0946_001,factory worker
+interview_0947_001,railroad worker
+interview_0948_001,carpenter
+interview_0949_001,stone mason
+interview_0950_001,casual laborer
+interview_0951_001,casual laborer
+interview_0952_001,neon technician
+interview_0953_001,housewife
+interview_0953_001,seasonal factory worker
+interview_0954_001,housewife
+interview_0955_001,farmer
+interview_0956_001,boarding house operator
+interview_0957_001,farmer
+interview_0958_001,undertaker
+interview_0959_001,day laborer
+interview_0960_001,factory worker
+interview_0961_001,peddler
+interview_0962_001,chain grocery manager
+interview_0963_001,waitress
+interview_0964_001,casual laborer
+interview_0965_001,veterinarian
+interview_0967_001,ccc worker
+interview_0968_001,ccc worker
+interview_0969_001,pretty lady
+interview_0971_001,farmer
+interview_0971_001,on relief
+interview_0972_001,tramp
+interview_0973_001,first deputy
+interview_0974_001,unemployed
+interview_0975_001,store clerk
+interview_0976_001,president of c&s laundry
+interview_0977_001,bootlegger
+interview_0978_001,proprietor nursing home
+interview_0979_001,distributes food at Welfare Department
+interview_0980_001,industrial worker
+interview_0981_001,curb market huckster
+interview_0982_001,fountain manager
+interview_0983_001,house maid
+interview_0984_001,on relief
+interview_0985_001,farmer/gardener
+interview_0986_001,farmer's wife
+interview_0987_001,tenant farmer's wife
+interview_0988_001,spinner at cotton mill
+interview_0989_001,spinner in cotton mill
+interview_0990_001,country merchant
+interview_0991_001,odd jobs man
+interview_0992_001,tenant farmer
+interview_0993_001,liquor business
+interview_0994_001,worker at husband's cafe
+interview_0995_001,ship captain
+interview_0996_001,farmer
+interview_0996_018,Navel Store Mill Owner
+interview_0997_001,early school teacher
+interview_0998_001,developer
+interview_0998_010,park commissioner
+interview_0999_001,school teacher
+interview_0999_006,school teacher
+interview_1000_015,construction and drainage engineer
+interview_1001_009,inventor
+interview_1002_028,lawyer
+interview_1002_041,retired hardware executive
+interview_1003_001,judge
+interview_1003_005,secretary
+interview_1004_026,finacier
+interview_1005_001,director keystone home for boys
+interview_1005_001,reverend
+interview_1005_010,lawyer
+interview_1006_014,farmer
+interview_1007_004,cook
+interview_1009_001,shoe shine business owner
+interview_1009_014,wholesale fish business owner
+interview_1009_020,seminole printing and paper company manager
+interview_1010_001,laundry machinist
+interview_1010_015,housewife
+interview_1010_029,broker
+interview_1011_001,restaurant owner
+interview_1011_017,laundry operator
+interview_1012_001,widow
+interview_1012_012,teacher
+interview_1012_022,housewife
+interview_1012_031,cook
+interview_1013_001,teacher
+interview_1013_011,squatter
+interview_1013_025,squatter
+interview_1013_033,proprieter
+interview_1013_047,farmer
+interview_1013_047,squatter
+interview_1013_057,citrus worker
+interview_1014_001,car repairer f.e.c. Rr.
+interview_1014_033,collector
+interview_1015_008,farmer
+interview_1015_022,dairyman
+interview_1016_001,shrimper
+interview_1016_008,insurance collector
+interview_1017_001,town pioneer
+interview_1017_010,town pioneer
+interview_1017_026,stenographer
+interview_1017_038,shrimper
+interview_1017_044,proprieter recter's cafe
+interview_1018_001,landlady
+interview_1018_009,piano salesman
+interview_1019_001,textile worker
+interview_1020_009,tailor
+interview_1021_001,WPA worker
+interview_1021_011,fruit and vegetable vendor
+interview_1021_023,truck gardener
+interview_1021_032,produce vendor
+interview_1022_001,prostitute
+interview_1022_056,antique shop owner
+interview_1022_056,cabinet maker
+interview_1024_001,peddler
+interview_1024_005,cook
+interview_1024_005,maid
+interview_1024_005,prostitute
+interview_1024_020,cook
+interview_1024_032,cook
+interview_1025_001,railroad worker
+interview_1025_012,sugar cane cutter
+interview_1025_025,sugar cane cutter
+interview_1026_001,chauffeur
+interview_1026_007,kitchen worker
+interview_1026_010,sugar cane cutter
+interview_1027_001,mill worker
+interview_1027_007,housewife
+interview_1027_014,mill worker
+interview_1027_023,unemployed
+interview_1027_031,laundry worker
+interview_1027_031,mother
+interview_1027_035,mill worker
+interview_1027_041,housewife
+interview_1027_041,mill worker
+interview_1027_045,farmer
+interview_1027_045,mill worker
+interview_1027_054,mill worker
+interview_1027_054,odd jobs
+interview_1027_072,farmer
+interview_1027_072,mother
+interview_1027_077,unemployed
+interview_1027_082,housewife
+interview_1027_093,housewife
+interview_1027_101,housewife
+interview_1027_112,mill worker
+interview_1027_118,mill worker
+interview_1028_001,farmer
+interview_1028_009,farmer
+interview_1028_018,carpenter
+interview_1028_018,farmer
+interview_1028_032,sharecropper
+interview_1028_048,sharecropper
+interview_1028_067,farmer
+interview_1028_067,mill worker
+interview_1030_009,business owner
+interview_1030_012,racketeer
+interview_1030_016,wine and beer salesman
+interview_1031_013,mother
+interview_1031_019,waiter
+interview_1031_025,manager lunch room and billiard parlor
+interview_1031_031,salesman
+interview_1031_036,cafe owner
+interview_1031_041,greek mother
+interview_1031_062,janitor
+interview_1032_001,lunch room operator
+interview_1032_009,restaurateur
+interview_1032_023,restaurateur
+interview_1033_012,proprietor of Raleigh's Dixie Diner
+interview_1033_015,proprietor of Raleigh diner
+interview_1033_018,proprietor of People's Cafe
+interview_1033_022,proprietor of restaurant
+interview_1033_032,lunch room operator
+interview_1033_034,proprietor of candy store
+interview_1033_037,fruit stand owner
+interview_1034_004,cook
+interview_1034_007,chaplain
+interview_1034_007,scholar
+interview_1034_009,laundry business owner
+interview_1034_009,store owner
+interview_1034_015,teacher
+interview_1034_020,confectioner
+interview_1034_026,grocery store owner
+interview_1034_028,seamstress
+interview_1034_028,store clerk
+interview_1034_031,business owner
+interview_1034_035,owner of Puritan Cafe
+interview_1034_038,owner of Dixie Cafe
+interview_1036_001,medical doctor
+interview_1036_001,surgeon
+interview_1036_018,housewife
+interview_1036_028,bookkeeper
+interview_1037_001,farmer
+interview_1037_015,farmer
+interview_1038_001,tenant farmer
+interview_1038_011,housework
+interview_1038_027,farming
+interview_1038_036,farmer
+interview_1038_049,farmer
+interview_1038_049,landowner
+interview_1039_009,retired farmer
+interview_1039_021,judge
+interview_1039_031,pastor
+interview_1039_039,retired magistrate
+interview_1040_001,collector
+interview_1040_011,tenant farmer
+interview_1040_022,tenant farmer
+interview_1040_031,farmer
+interview_1040_031,market gardener
+interview_1040_042,farmer
+interview_1040_042,market gardener
+interview_1040_052,cotton grower
+interview_1040_069,furniture salesman
+interview_1041_001,midwife
+interview_1041_001,servant
+interview_1042_001,insurance adjustor
+interview_1043_001,chicken and egg seller
+interview_1043_001,farmer
+interview_1043_015,mill worker
+interview_1043_025,mill worker
+interview_1044_001,mill worker
+interview_1044_018,wreck servicer
+interview_1044_030,textile worker
+interview_1044_038,farmer
+interview_1044_038,rural mail carrier
+interview_1044_057,farmer
+interview_1044_057,rural mail carrier
+interview_1044_072,baptist preacher
+interview_1044_083,baptist preacher
+interview_1045_001,farmer
+interview_1045_016,cook
+interview_1045_026,cook
+interview_1046_001,school teacher
+interview_1046_010,housewife
+interview_1046_022,wpa worker
+interview_1046_039,public health nurse
+interview_1047_001,occasional servant
+interview_1047_023,janitor
+interview_1047_031,janitor
+interview_1047_038,attorney
+interview_1047_046,city fireman
+interview_1048_001,attorney at law
+interview_1048_009,merchant
+interview_1048_016,florist
+interview_1048_028,florist
+interview_1048_038,printer
+interview_1049_001,farmer
+interview_1049_007,mill worker
+interview_1049_019,textile mill worker
+interview_1049_027,housewife
+interview_1049_033,farmer
+interview_1050_001,real estate man
+interview_1050_005,cook
+interview_1050_005,practical nurse
+interview_1050_017,cook
+interview_1050_027,teacher
+interview_1051_006,mill worker
+interview_1051_014,housewife
+interview_1051_037,merchant
+interview_1052_001,cattleman
+interview_1052_001,farmer
+interview_1052_007,farmer
+interview_1052_014,laborer
+interview_1053_001,butler
+interview_1053_008,farmer
+interview_1053_008,guide
+interview_1053_008,preacher
+interview_1054_001,news contributor
+interview_1054_008,housewife
+interview_1054_014,lawyer
+interview_1054_014,magistrate
+interview_1054_014,mecantile business
+interview_1054_021,housewife
+interview_1054_025,bookkeeper
+interview_1054_025,cashier
+interview_1054_025,housekeeper
+interview_1054_025,housewife
+interview_1054_025,teacher
+interview_1054_031,churchwork
+interview_1054_031,housewife
+interview_1054_035,law clerk
+interview_1054_040,farmer
+interview_1054_053,landowner
+interview_1055_001,probate judge
+interview_1055_007,widow
+interview_1055_017,doctor
