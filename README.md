@@ -50,4 +50,4 @@ To cite this dataset, please reference:
     Arnold, Taylor, Emeline Blevins Alexander, Courtney Rivard, Lauren Tilton,
     and Laura Wexler. (2020). "FWP Life History Project in the American South:
     Machine Readable Text and Metadata." (Version 1.0) [Data Set]. Zenodo.
-    DOI:
+    DOI: 10.5281/zenodo.3865765
